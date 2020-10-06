@@ -1,6 +1,7 @@
-
 package exp3;
-
+/*
+ * Write a program to use Custom Cipher to encrypt message
+ */
 public class Main {
 	public static void main(String arg[]) {
 		String keys = "12";
